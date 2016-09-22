@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<root>
+    
+    <table 
+        name="tabla01">            
+                    
+            <id name="id"/>
+            <column name="numerico"/>
+            <column name="caracter"/>
+            
+    </table>
+    
+</root>
